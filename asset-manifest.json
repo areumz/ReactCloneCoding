@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ReactCloneCoding/static/js/main.ea679a53.chunk.js",
+    "main.js.map": "/ReactCloneCoding/static/js/main.ea679a53.chunk.js.map",
+    "runtime-main.js": "/ReactCloneCoding/static/js/runtime-main.037af655.js",
+    "runtime-main.js.map": "/ReactCloneCoding/static/js/runtime-main.037af655.js.map",
+    "static/js/2.bdd555a4.chunk.js": "/ReactCloneCoding/static/js/2.bdd555a4.chunk.js",
+    "static/js/2.bdd555a4.chunk.js.map": "/ReactCloneCoding/static/js/2.bdd555a4.chunk.js.map",
+    "index.html": "/ReactCloneCoding/index.html",
+    "static/js/2.bdd555a4.chunk.js.LICENSE.txt": "/ReactCloneCoding/static/js/2.bdd555a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.037af655.js",
+    "static/js/2.bdd555a4.chunk.js",
+    "static/js/main.ea679a53.chunk.js"
+  ]
+}
